@@ -79,7 +79,9 @@ Open the generated visualizations in the results folder for detailed insights.
 # Example Visualizations
 
 **Sentiment Timeline**
-![download](https://github.com/Aabidnabi/PRODIGY_DS_03/assets/69672207/6ab28021-f959-4000-a8b7-a8893c28187d)
+<img src="https://github.com/Aabidnabi/PRODIGY_DS_03/assets/69672207/6ab28021-f959-4000-a8b7-a8893c28187d" alt="Image" width="300" height="200">
+
+<img src="https://github.com/Aabidnabi/PRODIGY_DS_03/assets/69672207/6ab28021-f959-4000-a8b7-a8893c28187d" alt="Image" width="300" height="200">
 <br>
 ![download (6)](https://github.com/Aabidnabi/PRODIGY_DS_03/assets/69672207/415a8382-54dd-4ba4-adec-ed7c9f2bf0a6)
 <br>
