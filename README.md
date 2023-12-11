@@ -76,21 +76,16 @@ python sentiment_analysis.py
 
 # Explore Results:
 Open the generated visualizations in the results folder for detailed insights.
-# Example Visualizations
 
-**Sentiment Timeline**
+# Sentiment Timeline Visualizations:
 <img src="https://github.com/Aabidnabi/PRODIGY_DS_03/assets/69672207/6ab28021-f959-4000-a8b7-a8893c28187d" alt="Image" width="600" height="300">
 <img src="https://github.com/Aabidnabi/PRODIGY_DS_03/assets/69672207/415a8382-54dd-4ba4-adec-ed7c9f2bf0a6" alt="Image" width="600" height="300">
 <img src="https://github.com/Aabidnabi/PRODIGY_DS_03/assets/69672207/653266a9-41c0-4936-aff9-3606863da25d" alt="Image" width="600" height="300">
 <img src="https://github.com/Aabidnabi/PRODIGY_DS_03/assets/69672207/e7b6a454-0add-4b2e-9fbd-ee482bc925e8" alt="Image" width="600" height="300">
-
-**Word Cloud**
-
-![download (1)](https://github.com/Aabidnabi/PRODIGY_DS_03/assets/69672207/3ba3a7e3-1026-4741-beb3-e863ddbf355f)
-<br>
-![download (2)](https://github.com/Aabidnabi/PRODIGY_DS_03/assets/69672207/b1c07225-8dc6-4e41-a22a-78009ebaa45b)
-<br>
-![download (3)](https://github.com/Aabidnabi/PRODIGY_DS_03/assets/69672207/76dd8895-7f7a-4695-b835-14ec040c5f94)
+# Word Cloud
+<img src="https://github.com/Aabidnabi/PRODIGY_DS_03/assets/69672207/3ba3a7e3-1026-4741-beb3-e863ddbf355f" alt="Image" width="600" height="300">
+<img src="https://github.com/Aabidnabi/PRODIGY_DS_03/assets/69672207/b1c07225-8dc6-4e41-a22a-78009ebaa45b" alt="Image" width="600" height="300">
+<img src="https://github.com/Aabidnabi/PRODIGY_DS_03/assets/69672207/76dd8895-7f7a-4695-b835-14ec040c5f94" alt="Image" width="600" height="300">
 
 # Future Enhancements
 * Implement real-time sentiment analysis.
