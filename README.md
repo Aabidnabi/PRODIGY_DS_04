@@ -83,7 +83,7 @@ Open the generated visualizations in the results folder for detailed insights.
 <img src="https://github.com/Aabidnabi/PRODIGY_DS_03/assets/69672207/653266a9-41c0-4936-aff9-3606863da25d" alt="Image" width="600" height="300"><br>
 <img src="https://github.com/Aabidnabi/PRODIGY_DS_03/assets/69672207/e7b6a454-0add-4b2e-9fbd-ee482bc925e8" alt="Image" width="600" height="300">
 
-# Word Cloud
+# Word Cloud Visualizations:
 <img src="https://github.com/Aabidnabi/PRODIGY_DS_03/assets/69672207/3ba3a7e3-1026-4741-beb3-e863ddbf355f" alt="Image" width="600" height="300"><br>
 <img src="https://github.com/Aabidnabi/PRODIGY_DS_03/assets/69672207/b1c07225-8dc6-4e41-a22a-78009ebaa45b" alt="Image" width="600" height="300"><br>
 <img src="https://github.com/Aabidnabi/PRODIGY_DS_03/assets/69672207/76dd8895-7f7a-4695-b835-14ec040c5f94" alt="Image" width="600" height="300">
